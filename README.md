@@ -7,6 +7,7 @@
   - and earlier Python, SQL, C, HTML,..  with [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 - Repositories below contain some of my solutions for learning tasks:
+  - [Task Set 2 - Console App using Java, Spring Boot, JDBC, and Hibernate. From Java Spring Development course of Foxminded](https://github.com/ZakharKP/learning_foxminded_spring_taskset2)
   - [Task Set 1: Clean Code. From Java Spring Development course of Foxminded](https://github.com/ZakharKP/learning_foxminded_spring_taskset1)
   - [Some tasks from JavaRush](https://github.com/ZakharKP/learning_javarushtasks)
   - [CS50 tasks](https://github.com/ZakharKP/learning_cs50tasks)
