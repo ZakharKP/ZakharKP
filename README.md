@@ -9,6 +9,7 @@
 - Repositories below contain some of my solutions for learning tasks:
   - [CS50 tasks](https://github.com/ZakharKP/learning_cs50tasks)
   - [Some tasks from JavaRush](https://github.com/ZakharKP/learning_javarushtasks)
+  - [Task Set 1: Clean Code. From JavaSpring Foxminded](https://github.com/ZakharKP/learning_foxminded_spring_taskset1)
 
 <!---
 ZakharKP/ZakharKP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
