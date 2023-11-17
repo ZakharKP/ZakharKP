@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in programming, climbing, swimming, rehabilitation, 3d printing.... but think here you are because of programming :)
 
-- 🌱 I’m currently learning Java Spring Development with [Foxminded](https://foxminded.ua/),
+- 🌱 As of today I graduated Java Mentoring Course with [Foxminded](https://foxminded.ua/),
   - earlier Java Core, Java Multithreading, Java Collections with[JavaRush](https://javarush.com/ua/)
   - and earlier Python, SQL, C, HTML,..  with [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
